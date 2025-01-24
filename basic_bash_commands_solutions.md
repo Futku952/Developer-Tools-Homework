@@ -5,7 +5,7 @@ ls -l
 ```
 
 **Exercise 2**.
-```bash
+```bashhttps://github.com/Futku952/Developer-Tools-Homework/blob/main/basic_bash_commands_solutions.md
 sudo ls -lhS /var/log | sort -h
 ```
 
